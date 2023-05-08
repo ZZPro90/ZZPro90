@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am new to Git and GitHub and want to bring my workflow to the next level.
+In my current role I am dealing with integration of divers machinery into an IIOT platform for traceability and locking of defect machined parts or, where certain machine steps are missing.
+
 <!--
 **ZZPro90/ZZPro90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
